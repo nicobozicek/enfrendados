@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1750873246 source:c:\users\gring\onedrive\escritorio\tp enfrendados final 25-6-25\main.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+	<ctime>
+
+1750873142 c:\users\gring\onedrive\escritorio\tp enfrendados final 25-6-25\dados.h
+	<iostream>
+	<string>
+
+1750628438 c:\users\gring\onedrive\escritorio\tp enfrendados final 25-6-25\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750885903 source:c:\users\gring\onedrive\escritorio\tp enfrendados final 25-6-25\dados.cpp
+	<cstdlib>
+	"dados.h"
+	"rlutil.h"
+	<iostream>
+
+1750885903 source:c:\users\gring\onedrive\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\dados.cpp
+	<cstdlib>
+	"dados.h"
+	"rlutil.h"
+	<iostream>
+
+1750873142 c:\users\gring\onedrive\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\dados.h
+	<iostream>
+	<string>
+
+1750628438 c:\users\gring\onedrive\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750873246 source:c:\users\gring\onedrive\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\main.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+	<ctime>
+
+1750885903 source:c:\users\gring\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\dados.cpp
+	<cstdlib>
+	"dados.h"
+	"rlutil.h"
+	<iostream>
+
+1750873142 c:\users\gring\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\dados.h
+	<iostream>
+	<string>
+
+1750628438 c:\users\gring\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750873246 source:c:\users\gring\escritorio\cursada 2025\primer cuatri\programacion i\tp final juego enfrendados!!\todas las versiones de enfrendados\tp enfrendados final 25-6-25\main.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+	<ctime>
+
